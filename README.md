@@ -1,4 +1,8 @@
 
+<table>
+<tr>
+<td width="320">
+
 <img src="profile.png" width="260"/>
 
 </td>
@@ -12,10 +16,6 @@ My name is Stella, and I am currently a second year PhD student in Linguistics a
 
 Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives.
 
-</td>
-</tr>
-</table>
-
 Some themes I am especially drawn to include:
 
 1. statistical learning informed by formal structure  
@@ -26,3 +26,7 @@ Some themes I am especially drawn to include:
 My interests broadly span theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling.
 
 Feel free to explore some of my past and ongoing projects, along with the ideas and research directions I am currently interested in pursuing!!
+
+</td>
+</tr>
+</table>
