@@ -5,7 +5,7 @@
 </td>
 <td valign="top">
 
-<h1>Stella Hong</h1>
+<h1>Stella (Eunsoo) Hong</h1>
 
 <h2>Hi!! You have rightfully stumbled upon my personal page :))</h2>
 
