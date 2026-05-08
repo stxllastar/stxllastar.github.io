@@ -1,14 +1,22 @@
-<p align="center">
-  <img src="profile.png" width="260"/>
-</p>
+
+<img src="profile.png" width="260"/>
+
+</td>
+<td>
 
 # Stella Hong
 
-# Hi!! You have rightfully stumbled upon my personal page :))
+Hi!! You have rightfully stumbled upon my personal page :))
 
 My name is Stella, and I am currently a second year PhD student in Linguistics at the University of Utah.
 
-Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives. Some themes I am especially drawn to include:
+Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives.
+
+</td>
+</tr>
+</table>
+
+Some themes I am especially drawn to include:
 
 1. statistical learning informed by formal structure  
 2. formal language theory in neural networks  
