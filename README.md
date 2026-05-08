@@ -3,7 +3,7 @@
 <td width="320" valign="top">
 <img src="profile.png" width="280"/>
 </td>
-<td valign="top">
+<td valign="center">
 
 <h1>Stella (Eunsoo) Hong</h1>
 
