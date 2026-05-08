@@ -1,13 +1,16 @@
 <table>
 <tr>
-<td width="320" valign="top">
+<td width="320" valign="middle">
+
 <img src="profile.png" width="280"/>
+
 </td>
-<td valign="center">
+
+<td valign="top">
 
 <h1>Stella (Eunsoo) Hong</h1>
 
-<h2>Hi!! You have rightfully stumbled upon my personal page :))</h2>
+<p><i>Hi!! You have rightfully stumbled upon my personal page :))</i></p>
 
 <p>
 My name is Stella, and I am currently a second year PhD student in Linguistics at the University of Utah.
