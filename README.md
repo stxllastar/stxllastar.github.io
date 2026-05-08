@@ -1,20 +1,25 @@
-
 <table>
 <tr>
-<td width="320">
+<td width="320" valign="top">
+<img src="profile.png" width="280"/>
+</td>
+<td valign="top">
 
-<img src="profile.png" width="260"/>
+<h1>Stella Hong</h1>
+
+<h2>Hi!! You have rightfully stumbled upon my personal page :))</h2>
+
+<p>
+My name is Stella, and I am currently a second year PhD student in Linguistics at the University of Utah.
+</p>
+
+<p>
+Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives.
+</p>
 
 </td>
-<td>
-
-# Stella Hong
-
-Hi!! You have rightfully stumbled upon my personal page :))
-
-My name is Stella, and I am currently a second year PhD student in Linguistics at the University of Utah.
-
-Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives.
+</tr>
+</table>
 
 Some themes I am especially drawn to include:
 
@@ -26,7 +31,3 @@ Some themes I am especially drawn to include:
 My interests broadly span theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling.
 
 Feel free to explore some of my past and ongoing projects, along with the ideas and research directions I am currently interested in pursuing!!
-
-</td>
-</tr>
-</table>
