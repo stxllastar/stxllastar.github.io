@@ -2,7 +2,7 @@
 <tr>
 <td width="320" valign="middle">
 
-<img src="refined.png" width="280"/>
+<img src="refined.jpeg" width="280"/>
 
 </td>
 
