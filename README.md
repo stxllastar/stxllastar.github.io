@@ -43,7 +43,10 @@ SCiL 2026 accepted paper
 (for a shortened version, see
 <a href="AMP_shortened.pdf" target="_blank">
 the AMP abstract recently submitted for review
-</a>)
+</a>),
+<a href="BiPhon.pdf" target="_blank">
+Revising the BiPhon model to accommodate non-equidistant sound change in Korean back vowel chain shifts
+</a>
 </li>
 
 <br>
