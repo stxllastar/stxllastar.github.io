@@ -32,11 +32,65 @@ Although I am still in the process of developing my academic taste, I am broadly
 
 Some themes I am especially drawn to include:
 
-1. statistical learning informed by formal structure  
-2. formal language theory in neural networks  
-3. the relationship between phonetic gradients and phonological categories  
-4. syntactic granularity in semantic interpretation  
+<ol>
 
+<li>
+statistical learning informed by formal structure <br>
+related works:
+<a href="scil_submission.pdf" target="_blank">
+SCiL 2026 accepted paper
+</a>
+(for a shortened version, see
+<a href="AMP_shortened.pdf" target="_blank">
+the AMP abstract recently submitted for review
+</a>)
+</li>
+
+<br>
+
+<li>
+formal language theory in neural networks <br>
+related works:
+<a href="PLT_LTT.pdf" target="_blank">
+investigating interactions between neural network architectural bias and formal language structure
+</a>
+</li>
+
+<br>
+
+<li>
+the relationship between phonetic gradients and phonological categories <br>
+related works:
+<a href="APSIPA.pdf" target="_blank">
+APSIPA 2024 accepted paper
+</a>,
+<a href="APSIPA_extended.pdf" target="_blank">
+extended writing sample version
+</a>,
+<a href="CPP.pdf" target="_blank">
+LabPhon project paper on using CPP to categorize voiced fricatives
+</a>
+</li>
+
+<br>
+
+<li>
+syntactic granularity in semantic interpretation <br>
+related works:
+<a href="Predication.pdf" target="_blank">
+cross-theoretical comparison of semantic transparency in syntactic accounts of predication
+</a>,
+<a href="RC_nominal.pdf" target="_blank">
+accounting for Korean relative clauses in the nominal domain
+</a>
+</li>
+
+</ol>
+
+<p>
 My interests broadly span theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling.
+</p>
 
+<p>
 Feel free to explore some of my past and ongoing projects, along with the ideas and research directions I am currently interested in pursuing!!
+</p>
