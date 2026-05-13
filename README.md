@@ -4,6 +4,12 @@
 
 <img src="refined.jpeg" width="280"/>
 
+<br><br>
+
+<a href="cv.pdf" target="_blank">
+  Curriculum Vitae (CV)
+</a>
+
 </td>
 
 <td valign="top">
