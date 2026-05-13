@@ -35,7 +35,7 @@ Some themes I am especially drawn to include:
 <ol>
 
 <li>
-statistical learning informed by formal structure <br>
+Statistical learning informed by formal structure <br>
 related works:
 <a href="scil_submission.pdf" target="_blank">
 SCiL 2026 accepted paper
@@ -49,7 +49,7 @@ the AMP abstract recently submitted for review
 <br>
 
 <li>
-formal language theory in neural networks <br>
+Formal language theory in neural networks <br>
 related works:
 <a href="PLT_LTT.pdf" target="_blank">
 Investigating interactions between neural network architectural bias and formal language structure
@@ -59,7 +59,7 @@ Investigating interactions between neural network architectural bias and formal 
 <br>
 
 <li>
-the relationship between phonetic gradients and phonological categories <br>
+Relationship between phonetic gradients and phonological categories <br>
 related works:
 <a href="APSIPA.pdf" target="_blank">
 APSIPA 2024 accepted paper
@@ -75,7 +75,7 @@ LabPhon project paper on using CPP to categorize voiced fricatives
 <br>
 
 <li>
-syntactic granularity in semantic interpretation <br>
+Syntactic granularity in semantic interpretation <br>
 related works:
 <a href="Predication.pdf" target="_blank">
 Cross-theoretical comparison of semantic transparency in syntactic accounts of predication
