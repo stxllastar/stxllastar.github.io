@@ -52,7 +52,7 @@ the AMP abstract recently submitted for review
 formal language theory in neural networks <br>
 related works:
 <a href="PLT_LTT.pdf" target="_blank">
-Intro CompLing project paper investigating interactions between neural network architectural bias and formal language structure
+Investigating interactions between neural network architectural bias and formal language structure
 </a>
 </li>
 
