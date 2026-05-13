@@ -22,7 +22,7 @@ Although I am still in the process of developing my academic taste, I am broadly
 
 <br>
 
-<a href="/assets/pdf/stella_hong_cv.pdf" target="_blank">
+<a href="cv.pdf" target="_blank">
   Curriculum Vitae (CV)
 </a>
 
