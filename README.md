@@ -110,5 +110,5 @@ Revisiting gradient correspondence relations in output-to-output phonological pa
 
 </ol>
 <p>
-Feel free to explore some of my past and ongoing projects, along with the research questions and directions I am currently interested in pursuing!!
+Feel free to explore some of my past and ongoing projects, along with the research directions I am currently interested in pursuing!!
 </p>
