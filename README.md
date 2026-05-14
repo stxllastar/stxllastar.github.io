@@ -20,6 +20,10 @@ My name is Stella, and I am currently a second year PhD student in Linguistics a
 Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives.
 </p>
 
+<p>
+My academic journey 
+</p>
+
 <br>
 
 <a href="cv.pdf" target="_blank">
@@ -57,7 +61,11 @@ related works:
 <a href="PLT_LTT.pdf" target="_blank">
 Investigating interactions between neural network architectural bias and formal language structure
 </a>
+<a href="CrossModal_SSL.pdf" target="_blank">
+probing phonological representations in cross-modal self-supervised speech models
+</a>
 </li>
+
 
 <br>
 
