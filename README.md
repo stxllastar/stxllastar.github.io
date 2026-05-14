@@ -3,7 +3,9 @@
 <td width="320" valign="middle">
 
 <img src="refined.jpeg" width="280"/>
-
+<a href="cv.pdf" target="_blank">
+  Curriculum Vitae (CV)
+</a>
 </td>
 
 <td valign="top">
@@ -34,9 +36,6 @@ With that being said, my work broadly spans theoretical linguistics, cognitively
 
 <br>
 
-<a href="cv.pdf" target="_blank">
-  Curriculum Vitae (CV)
-</a>
 
 </td>
 </tr>
