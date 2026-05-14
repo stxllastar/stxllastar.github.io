@@ -4,10 +4,11 @@
 
 <img src="refined.jpeg" width="280"/>
 
-<br><br>
+<p style="margin-top: 15px;">
 <a href="cv.pdf" target="_blank">
   Curriculum Vitae (CV)
 </a>
+</p>
 </td>
 
 <td valign="top">
