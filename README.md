@@ -4,7 +4,7 @@
 
 <img src="refined.jpeg" width="280"/>
 
-<p style="margin-top: 15px;">
+<p style="margin-top: 20px;">
 <a href="cv.pdf" target="_blank">
   Curriculum Vitae (CV)
 </a>
