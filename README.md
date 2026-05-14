@@ -30,7 +30,7 @@ My academic background has taken a somewhat unconventional trajectory. I initial
 </p>
 
 <p>
-As I continued working in speech technology, I gradually found myself increasingly drawn not only to technological development itself, but also to the more principled and theoretical questions underlying language structure and cognition. While I remain deeply interested in computational and connectionist approaches, my broader goal is ultimately linguistic in nature: understanding how structured and gradient aspects of human language emerge from domain-general learning mechanisms rather than language-specific biases
+As I continued working in speech technology, I gradually found myself drawn not only to technological development itself, but also to the more principled and theoretical questions underlying language structure and cognition. While I remain deeply interested in computational and connectionist approaches, my broader goal is ultimately linguistic in nature: understanding how structured and gradient aspects of human language emerge from domain-general learning mechanisms rather than language-specific biases
 </p>
 
 <p>
