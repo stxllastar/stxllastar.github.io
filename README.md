@@ -21,7 +21,15 @@ Although I am still in the process of developing my academic taste, I am broadly
 </p>
 
 <p>
-My academic journey 
+My academic background has taken a somewhat unconventional trajectory. I initially began in a more humanistically grounded field through American Culture Studies, which cultivated my interest in critical thinking and analytical reasoning at the societal and cultural level. Over time, however, my longstanding fascination with sound and quantitatively grounded research led me toward speech signal processing and AI-based speech technologies, particularly questions surrounding ASR interpretability and phonetically informed representation learning.
+</p>
+
+<p>
+As I continued working in speech technology, I gradually found myself increasingly drawn not only to technological development itself, but also to the more principled and theoretical questions underlying language structure and cognition. While I remain deeply interested in computational and connectionist approaches, my broader goal is ultimately linguistic in nature: understanding to what extent gradient and structured aspects of human language can emerge from domain-general learning mechanisms that are not specifically tailored toward language.
+</p>
+
+<p>
+With that being said, my work broadly spans theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling.
 </p>
 
 <br>
@@ -37,6 +45,19 @@ My academic journey
 Some themes I am especially drawn to include:
 
 <ol>
+
+<li>
+Formal language theory in neural networks <br>
+related works:
+<a href="PLT_LTT.pdf" target="_blank">
+Investigating interactions between neural network architectural bias and formal language structure
+</a>,
+<a href="CrossModal_SSL.pdf" target="_blank">
+Probing phonological representations in cross-modal self-supervised speech models
+</a>
+</li>
+
+<br>
 
 <li>
 Statistical learning informed by formal structure <br>
@@ -56,27 +77,13 @@ Revising the BiPhon model to accommodate non-equidistant sound change in Korean 
 <br>
 
 <li>
-Formal language theory in neural networks <br>
-related works:
-<a href="PLT_LTT.pdf" target="_blank">
-Investigating interactions between neural network architectural bias and formal language structure
-</a>
-<a href="CrossModal_SSL.pdf" target="_blank">
-probing phonological representations in cross-modal self-supervised speech models
-</a>
-</li>
-
-
-<br>
-
-<li>
 Relationship between phonetic gradients and phonological categories <br>
 related works:
 <a href="APSIPA.pdf" target="_blank">
 APSIPA 2024 accepted paper
 </a>,
 <a href="APSIPA_extended.pdf" target="_blank">
-extended writing sample version
+Extended writing sample version
 </a>,
 <a href="CPP.pdf" target="_blank">
 LabPhon project paper on using CPP to categorize voiced fricatives
@@ -100,11 +107,6 @@ Revisiting gradient correspondence relations in output-to-output phonological pa
 </li>
 
 </ol>
-
-<p>
-My work broadly spans theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling. 
-</p>
-
 <p>
 Feel free to explore some of my past and ongoing projects, along with the research questions and directions I am currently interested in pursuing!!
 </p>
