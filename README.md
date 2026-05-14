@@ -18,7 +18,7 @@
 <p><i>Hi!! You have rightfully stumbled upon my personal page :))</i></p>
 
 <p>
-My name is Stella, and I am currently a second year PhD student in Linguistics at the University of Utah.
+My name is Stella, and I have just completed my first year as a PhD student in Linguistics at the University of Utah.
 </p>
 
 <p>
