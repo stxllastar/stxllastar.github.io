@@ -108,6 +108,17 @@ Revisiting gradient correspondence relations in output-to-output phonological pa
 </a>
 </li>
 
+
+<li>
+And just in case you are interested in some of the more humanities-oriented work I pursued earlier, here are a few examples: <br>
+<a href="Subculture.pdf" target="_blank">
+From social disorganization theory to taste culture: changing definitions of subculture and its integrability into mainstream media
+</a>,
+<a href="Posthumanism.pdf" target="_blank">
+Comparative analysis of posthumanist subjectivity and representations of “otherness” across literary and cinematic adaptation
+</a>
+</li>
+
 </ol>
 <p>
 Feel free to explore some of my past and ongoing projects, along with the research directions I am currently interested in pursuing!!
