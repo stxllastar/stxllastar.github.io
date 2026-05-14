@@ -78,13 +78,16 @@ LabPhon project paper on using CPP to categorize voiced fricatives
 <br>
 
 <li>
-Syntactic granularity in semantic interpretation <br>
+Representational granularity at linguistic interfaces <br>
 related works:
 <a href="Predication.pdf" target="_blank">
 Cross-theoretical comparison of semantic transparency in syntactic accounts of predication
 </a>,
 <a href="RC_nominal.pdf" target="_blank">
 Accounting for Korean relative clauses in the nominal domain
+</a>,
+<a href="Mparse.pdf" target="_blank">
+Revisiting gradient correspondence relations in output-to-output phonological parsing
 </a>
 </li>
 
