@@ -94,7 +94,7 @@ Revisiting gradient correspondence relations in output-to-output phonological pa
 </ol>
 
 <p>
-My work broadly spans theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling, 
+My work broadly spans theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling. 
 </p>
 
 <p>
