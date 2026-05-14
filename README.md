@@ -120,7 +120,7 @@ And just in case you are curious about some of the more humanities-oriented work
 From social disorganization theory to taste culture: changing definitions of subculture and its integrability into mainstream media
 </a>
 <br>
-<a href="Posthumanism.pdf" target="_blank">
+<a href="posthumanism.pdf" target="_blank">
 Comparative analysis of posthumanist subjectivity and representations of otherness across literary and cinematic adaptation
 </a>
 </p>
