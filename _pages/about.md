@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<i>Hi!! You have rightfully stumbled upon my personal page :))</i> My name is Stella, and I have just completed my first year as a PhD student in Linguistics at the University of Utah.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Although I am still in the process of developing my academic taste, I am broadly interested in interdisciplinary work that crosses the boundary between connectionist and symbolic perspectives.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic background has taken a somewhat unconventional trajectory. I initially began in a more humanistically grounded field through American Culture Studies, which cultivated my interest in critical thinking and analytical reasoning at the societal and cultural level. Over time, however, my longstanding fascination with sound and quantitatively grounded research led me toward speech signal processing and AI-based speech technologies, particularly questions surrounding ASR interpretability and phonetically informed representation learning.
+
+As I continued working in speech technology, I gradually found myself drawn not only to technological development itself, but also to the more principled and theoretical questions underlying language structure and cognition. While I remain invested in computational and connectionist approaches, my broader goal is ultimately linguistic in nature: understanding the extent to which structured and gradient aspects of human language emerge from domain-general learning mechanisms, beyond language-specific biases.
+
+With that being said, my work broadly spans theoretical linguistics, cognitively informed empirical research, signal processing, and computational modeling.
+
+#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
